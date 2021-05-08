@@ -164,7 +164,7 @@
 	}
 
 	.site-logo img {
-		height: 22px;
+		height: 70px;
 	}
 
 	/* Navigation */
@@ -399,7 +399,7 @@
 	.site-footer .col-xs-12 {
 		text-align: center;
 	}
-}
+
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 479px) {
